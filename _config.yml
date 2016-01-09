@@ -1,6 +1,6 @@
 name: Rog Art Photography
 favicon: null
-layout_spectrum: 0.3443200995679945
+layout_spectrum: 0.24952
 typography_spectrum: 0.7418034174479544
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.8387733404524624
-  lightness: 0.8751801252365112
-  saturation: 0.17593340249732137
-  rhythmicContrast: 0.8042233712039888
+    - '#1b1b1b'
+    - '#ddd9d6'
+    - '#c74f49'
+    - '#a8948a'
+    - '#685e53'
+  brandStrength: 0.6875
+  lightness: 0.6875
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
